@@ -1,1 +1,1 @@
-"# coinbox" 
+"coinbox" 
